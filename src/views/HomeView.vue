@@ -302,6 +302,12 @@ export default {
     display: none;
   }
 
+  .table-input {
+    width: 132%;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+
   .data-table tr {
     margin-bottom: 10px;
     display: block;
